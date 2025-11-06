@@ -1,0 +1,8 @@
+{
+  "name": "EternalStoneBibleApp",
+  "displayName": "Eternal Stone Bible",
+  "version": "2.0.0",
+  "description": "Una aplicación móvil de la Biblia moderna y optimizada",
+  "author": "Victor Vidal",
+  "license": "MIT"
+}
